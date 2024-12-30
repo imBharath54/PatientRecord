@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VMqsnY+cnQq1eT6TQUU2V3elw+Gp4OTfFICQiWDb1So=",
+  "Source": "PatientRecordMicroService",
+  "BasePath": "_content/PatientRecordMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
